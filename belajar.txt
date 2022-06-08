@@ -1,3 +1,7 @@
 ini dari branch faras
 edit 123
+<<<<<<< HEAD
 ini di faras
+=======
+persipaan merge
+>>>>>>> main
